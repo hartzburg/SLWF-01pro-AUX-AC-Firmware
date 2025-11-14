@@ -1,7 +1,7 @@
 # SLWF-01pro-AUX-AC-Firmware
 Esphome yaml entry for SLWF-01pro (v1.1) for operating an AUX AC unit (or Yitahome).
 
-Mostly taken from https://github.com/GrKoR/esphome_aux_ac_component\
+Mostly taken from https://github.com/GrKoR/esphome_aux_ac_component
 
 Wanted to publicize my version for people looking to get their SLWF-01pro modules working with AUX AC units. 
 
